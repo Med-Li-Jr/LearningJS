@@ -1,0 +1,6 @@
+[submodule "Euler"]
+	path = Euler
+	url = https://github.com/Med-Li-Jr/Projects-Euler.git
+[submodule "Dame"]
+	path = Dame
+	url = https://github.com/Med-Li-Jr/DameGame.git
